@@ -1,1 +1,2 @@
 # Matrix-Calculator
+With help of this calculator you can: find the matrix determinant, the rank, raise the matrix to a power, find all operations of matrices, calculate the inverse matrix, find transpose matrix, find matrix multiplication by a number. Just type matrix elements and click the button.
