@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\winform\winform\Debug\winform.vcxprojAssemblyReference.cache
+C:\Users\HP\source\repos\winform\winform\Debug\winform.MyForm.resources
+C:\Users\HP\source\repos\winform\winform\Debug\winform.vcxproj.GenerateResource.cache
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\Debug\winform.MyForm.resources
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\Debug\winform.vcxproj.GenerateResource.cache
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\Debug\winform.vcxproj.AssemblyReference.cache

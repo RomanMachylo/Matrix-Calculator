@@ -1,0 +1,69 @@
+﻿  functoins.cpp
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\Kursach\Kursach\functoins.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\Kursach\Kursach\functoins.cpp(12,21): warning C4018: '<': signed/unsigned mismatch
+  MyForm.cpp
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(104,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(152,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(158,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(210,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(211,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(216,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(217,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(246,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(247,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(272,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(296,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(297,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(332,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(333,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(369,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(370,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(394,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(395,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(419,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(420,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(452,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(453,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(485,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(486,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(516,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(517,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(547,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(548,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(585,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(586,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(623,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(624,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(648,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(649,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(667,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(668,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(679,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(680,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(691,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(692,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(703,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(704,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(727,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(760,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(782,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(783,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(797,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(821,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(822,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\winform\MyForm.cpp(836,22): warning C4018: '<': signed/unsigned mismatch
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  functoins.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  winform.vcxproj -> C:\Users\HP\source\repos\Кпі сем 2\Курсова робота\winform\Debug\winform.exe
